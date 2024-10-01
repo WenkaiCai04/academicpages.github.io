@@ -1,6 +1,9 @@
-i[image](https://github.com/WenkaiCai04/academicpages.github.io/blob/master/_pages/%E8%AE%A1%E5%88%92%E4%B9%A6_Page1.png)
-
----
+<div align="center">
+<img src="https://github.com/WenkaiCai04/academicpages.github.io/blob/master/_pages/%E8%AE%A1%E5%88%92%E4%B9%A6_Page1.png" width="300" />
+<img src="https://github.com/WenkaiCai04/academicpages.github.io/blob/master/_pages/%E8%AE%A1%E5%88%92%E4%B9%A6_Page1.png" width="300" />
+<img src="https://github.com/WenkaiCai04/academicpages.github.io/blob/master/_pages/%E8%AE%A1%E5%88%92%E4%B9%A6_Page1.png" width="300" />
+<br>
+  ---
 title: "Exploration of Modification Methods for Relaxor Ferroelectric Ceramics for Energy Storage Applications"
 type: 
 redirect_from: 
