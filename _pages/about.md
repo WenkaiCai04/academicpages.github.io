@@ -1,17 +1,16 @@
 <div align="center">
-<img src="https://github.com/WenkaiCai04/academicpages.github.io/blob/master/_pages/%E8%AE%A1%E5%88%92%E4%B9%A6_Page1.png" width="300" />
-<img src="https://github.com/WenkaiCai04/academicpages.github.io/blob/master/_pages/%E8%AE%A1%E5%88%92%E4%B9%A6_Page1.png" width="300" />
-<img src="https://github.com/WenkaiCai04/academicpages.github.io/blob/master/_pages/%E8%AE%A1%E5%88%92%E4%B9%A6_Page1.png" width="300" />
+<img src="https://github.com/WenkaiCai04/academicpages.github.io/blob/master/_pages/%E8%AE%A1%E5%88%92%E4%B9%A6_Page1.png" width="300"/>
+<img src="https://github.com/WenkaiCai04/academicpages.github.io/blob/master/_pages/%E8%AE%A1%E5%88%92%E4%B9%A6_Page2.png" width="300"/>
+<img src="https://github.com/WenkaiCai04/academicpages.github.io/blob/master/_pages/%E8%AE%A1%E5%88%92%E4%B9%A6_Page3.png" width="300"/>
 <br>
 </div>
----
-title: "Exploration of Modification Methods for Relaxor Ferroelectric Ceramics for Energy Storage Applications"
-type: 
-redirect_from: 
-  - /about/
-  - /about.html
----
 
+---
+-**Title**: "Exploration of Modification Methods for Relaxor Ferroelectric Ceramics for Energy Storage Applications"  
+-**Period**: 2023.09-2025.06  
+-**Suspensor**: National Natural Science Foundation of China (NSFC)
+
+---
 
 Background
 =====
