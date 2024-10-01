@@ -19,6 +19,11 @@ Ferroelectric film for storage and computaion (experiment)
 ---
 I am very fortunate to be advised by [Prof. Jingsheng Chen]([https://scholar.google.com.sg/citations?user=MRcUU1gAAAAJ&hl=en](https://cde.nus.edu.sg/mse/staff/chen-jingsheng/)), National University of Singapore. 
 Here, I participate in a project to realize a 2D ferroelectric triode, which could be stacked on the Z-axis to continue the Moor's Law.
+
+Domain wall is a quasi-two dimesional structure, in which we could see dozens of new phenomena, like giant conductivity compared with domain region and topology protection
+As Herbert Kroemer's famous saying goes, **"Interface is physics."** I'm trying to figure out the pattern behind such **conductive property in domain wall.**  
+
+Futhermore, as domain wall could be manipulate by field, it could be erase and write. Excitedly, I am finding the way to use a single domain wall as an electronic device.
  
 2023.09-2024.08
 ---
