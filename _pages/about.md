@@ -1,16 +1,12 @@
-<div align="center">
-<img src="https://github.com/WenkaiCai04/academicpages.github.io/blob/master/_pages/%E8%AE%A1%E5%88%92%E4%B9%A6_Page1.png" width="300"/>
-<img src="https://github.com/WenkaiCai04/academicpages.github.io/blob/master/_pages/%E8%AE%A1%E5%88%92%E4%B9%A6_Page2.png" width="300"/>
-<img src="https://github.com/WenkaiCai04/academicpages.github.io/blob/master/_pages/%E8%AE%A1%E5%88%92%E4%B9%A6_Page3.png" width="300"/>
-<br>
-</div>
+Wenkai Cai's page
+================================ 
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
+The background color is `rgb(1,1,1)` for light mode and `#000000` for dark mode.
 
----
--**Title**: "Exploration of Modification Methods for Relaxor Ferroelectric Ceramics for Energy Storage Applications"  
--**Period**: 2023.09-2025.06  
--**Suspensor**: National Natural Science Foundation of China (NSFC)
 
----
+
 
 Background
 =====
@@ -30,8 +26,22 @@ As Herbert Kroemer's famous saying goes, **"Interface is physics."** I'm trying 
 
 Futhermore, as domain wall could be manipulate by field, it could be erase and write. Excitedly, I am finding the way to use a single domain wall as an electronic device.
  
-2023.09-2024.08
----
 
 Relaxor ferroelectric ceramics for energy storage (experiment and computation)
 ======
+2023.09-2024.0
+---
+There are many high-power miniaturized capacitors in electronic devices. These inorganic capacitors have high charge and discharge power, but the total energy storage density needs to be improved.
+
+We need to use dielectric materials with large polarization strength and breakdown resistance to prepare capacitors. **Relaxor ferroelectrics** are very suitable materials. Not only do they have large polarization strength, but they also have small energy loss.  
+
+<div align="center">
+<a href="https://www.bing.com/?mkt=zh-CN" target="_blank">
+<img  src="https://github.com/WenkaiCai04/academicpages.github.io/blob/master/_pages/NSFC.png"  width="80%"  />
+</a>
+</div>
+
+
+-**Title**: "Exploration of Modification Methods for Relaxor Ferroelectric Ceramics for Energy Storage Applications"  
+-**Period**: 2023.09-2025.06  
+-**Suspensor**: National Natural Science Foundation of China (NSFC)
